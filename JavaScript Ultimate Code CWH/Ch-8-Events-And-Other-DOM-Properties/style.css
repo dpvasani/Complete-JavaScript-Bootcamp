@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.yellow {
+  background-color: yellow;
+  color: white;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.text-dark {
+  color: black;
+}
+
+.bulb{
+  height : 341px;
+  width : 341px;
+  background:yellow;
+}
+.bulbcontainer{
+  height : 341px;
+  width : 341px;
+}
