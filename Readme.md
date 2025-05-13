@@ -1,7 +1,6 @@
 
 # 🌟 JavaScript Learning Hub – Curated Notes, Code & Resources
 
-📁 **Directory**: `D:\My Work\My Code\JavaScript`  
 🗓️ **Last Updated**: 13 May 2025  
 🧠 **Purpose**: This repository contains a comprehensive collection of JavaScript learning resources including tutorials, curated notes, advanced code snippets, and important blogs for reference.
 
@@ -55,8 +54,8 @@
 
 ```bash
 # Sample structure to clone and explore
-git clone https://github.com/yourusername/javascript-learning-hub.git
-cd javascript-learning-hub
+git clone https://github.com/dpvasani/Complete-JavaScript-Bootcamp.git
+cd Complete-JavaScript-Bootcamp
 code .
 ```
 
